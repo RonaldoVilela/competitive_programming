@@ -1,6 +1,6 @@
 /* -----
     Problem name: Array Division
-    Problem link: https://cses.fi/problemset/task/2162/
+    Problem link: https://cses.fi/problemset/task/1085/
 
     Time complexity: O(n log(n))
     Space compexity: O(n)
