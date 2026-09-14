@@ -1,6 +1,6 @@
 /* -----
     Problem name: Josephus Problem I
-    Problem link: https://cses.fi/cghy9c4cc/task/2162/
+    Problem link: https://cses.fi/problemset/task/2162
 
     Time complexity: O(n)
     Space compexity: O(n)
