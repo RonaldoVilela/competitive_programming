@@ -15,11 +15,9 @@ bool IsRight(vector<pair<int,int>>& verts) {
         int c = verts[k].first  - verts[i].first;
         int d = verts[k].second - verts[i].second;
 
-        // Triângulo degenerado
         if(a*d - b*c == 0)
             continue;
 
-        // Ângulo de 90 graus
         if(a*c + b*d == 0)
             return true;
     }
