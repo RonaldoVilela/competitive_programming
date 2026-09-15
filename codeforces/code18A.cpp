@@ -34,7 +34,6 @@ int main() {
     for(int i = 0; i < 3; i++)
         cin >> verts[i].first >> verts[i].second;
 
-    // Já é retângulo?
     if(IsRight(verts)) {
         cout << "RIGHT\n";
         return 0;
