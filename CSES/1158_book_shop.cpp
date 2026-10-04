@@ -6,7 +6,7 @@
     Time complexity: 0(n * x)
     Space complexity: 0(x)
     
-    by: Ronaldo Vilela de Souza Pereira
+    by: Ronaldo Vilela
 
 -----*/
 
